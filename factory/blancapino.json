@@ -1,0 +1,9 @@
+{
+	"name": "blancapino",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7741089-c3d7-4dab-9899-a06cd46e7b6a",
+		"tenantId": "a77c7782-4a4f-47cc-9ddc-4d8d58081981"
+	}
+}
